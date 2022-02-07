@@ -2,7 +2,7 @@
 
 ## Purpose
 
-  The purpose of this project is to analyze data comparing theater campaign outcomes based on goals and launch dates. Louise's play, Fever, came close to it's goal in a short amount of time and we want to be able to have our future productions be just as successful. By looking at how successful these previous campaigns were based on how big their goals were and the date it was launched, can aid us to better plan future theatre events. We will use all the information collected and on these campaigns to analyze these trends. [Campaign Information](/Users/Desktop/kickstarter-excel-data/Kickstarter_Challenge_Date.xlsx)
+  The purpose of this project is to analyze data comparing theater campaign outcomes based on goals and launch dates. Louise's play, Fever, came close to it's goal in a short amount of time and we want to be able to have our future productions be just as successful. By looking at how successful these previous campaigns were based on how big their goals were and the date it was launched, can aid us to better plan future theatre events. We will use all the information collected and on these campaigns to analyze these trends. [Campaign Information](https://github.com/evanbruno617/kickstarter-excel-data/blob/main/Kickstarter_Challenge_Data.xlsx)
 
 --- 
 
@@ -16,7 +16,9 @@
   
 ### Outcomes Based On Goals
 
-  Next I analyzed the outcomes of plays in theatres based on their goals. I started by making a column for goals with a row starting at less than 1000 and then by intervals of 5000 until 50000. I then counted the number of successful plays in each interval by using a COUNTIF statement. I continued this proccess with failed and cancelled plays as well. I then calculated total projects of each row by adding up all of the outcomes. I then found the percentage of successful, failed, and cancelled outcomes for each row. From this data I created a line chart depicting the percent of successful, failed, and cancelled outcomes per goal interval. Some challenges I came accross were editing the charts in order to depict the data I wanted and I overcame this by playing around with it and moving data until it produced the format I needed. 
+  Next I analyzed the outcomes of plays in theatres based on their goals. I started by making a column for goals with a row starting at less than 1000 and then by intervals of 5000 until 50000. I then counted the number of successful plays in each interval by using a COUNTIF statement. I continued this proccess with failed and cancelled plays as well. I then calculated total projects of each row by adding up all of the outcomes. I then found the percentage of successful, failed, and cancelled outcomes for each row. From this data I created a line chart depicting the percent of successful, failed, and cancelled outcomes per goal interval. Some challenges I came accross were editing the charts in order to depict the data I wanted and I overcame this by playing around with it and moving data until it produced the format I needed. To find the amount of successful plays for each row I used this equation, [Successful Data](https://github.com/evanbruno617/kickstarter-excel-data/blob/main/Resources/Screen%20Shot%202022-02-06%20at%206.27.54%20PM.png), for the failed plays I used, [Failed Data](https://github.com/evanbruno617/kickstarter-excel-data/blob/main/Resources/Screen%20Shot%202022-02-06%20at%206.27.21%20PM.png), and for cancelled plays I used [Cancelled Data](https://github.com/evanbruno617/kickstarter-excel-data/blob/main/Resources/Screen%20Shot%202022-02-06%20at%206.26.17%20PM.png). With this information I developed the following chart. 
+  
+  
 ![Outcomes Based on Goals](https://raw.githubusercontent.com/evanbruno617/kickstarter-analysis/main/Outcomes_vs_Goals.png)
   
 ---
