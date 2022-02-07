@@ -2,7 +2,7 @@
 
 ## Purpose
 
-  The purpose of this project is to analyze data comparing theater campaign outcomes based on goals and launch dates. Louise's play, Fever, came close to it's goal in a short amount of time and we want to be able to have our future productions be just as successful. By looking at how successful these previous campaigns were based on how big their goals were and the date it was launched, can aid us to better plan future theatre events. We will use all the information collected and on these campaigns to analyze these trends. [Campaign Information](/Users/Desktop/kickstarter-analysis/Kickstarter_Challenge.xlsx)
+  The purpose of this project is to analyze data comparing theater campaign outcomes based on goals and launch dates. Louise's play, Fever, came close to it's goal in a short amount of time and we want to be able to have our future productions be just as successful. By looking at how successful these previous campaigns were based on how big their goals were and the date it was launched, can aid us to better plan future theatre events. We will use all the information collected and on these campaigns to analyze these trends. [Campaign Information](/Users/Desktop/kickstarter-excel-data/Kickstarter_Challenge_Date.xlsx)
 
 --- 
 
